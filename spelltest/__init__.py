@@ -1,1 +1,1 @@
-from spelltest.models.creature import Creature
+from .models.creature import Creature
